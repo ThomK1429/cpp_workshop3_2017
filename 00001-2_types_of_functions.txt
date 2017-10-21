@@ -1,0 +1,10 @@
+
+
+	- 2 types of functions
+
+		- p346, PREDEFINED FUNCTIONS
+		- functions that are already written for us
+
+
+		- p350, USER DEFINED FUNCTIONS
+		- functions that we will write

@@ -1,0 +1,59 @@
+p346 -  7th edition text
+
+
+0. A c++ program is a collection of functions. 
+
+
+1.  Where have you seen a function in c++?
+
+	main() 
+
+	- what does the main function look like?
+
+	-       int main() { 
+		
+		    your pgm statements go here
+
+		
+		    return 0;	
+		}
+
+2.  What is unusual about the  main() function?
+
+	it is executed first, no matter where it is found in the c++ program. 
+
+3. What is a function?
+
+	functions are often called modules. 
+
+	functions are like miniature programs. 
+
+	functions are like building blocks, allowing you to divide a large or
+	complicated c++ program into smaller more manageable pieces. 
+
+	a segment that groups code  to perform a specific task.
+		a function that will add 2 numbers, any 2 numbers, 
+		a function that will convert a Fahrenheit temperature into a Centigrade Temperature
+		a function that will convert a Centigrade Temperature into a Fahrenheit temperature
+	
+	you can take many functions and combine them to form a larger program. 
+
+4. Functions are seen in college algebra. 
+
+	f(x) = 2x + 5,     
+		where f(1) = 2(1) + 5 = 7
+		where f(2) = 2(2) + 5 = 9
+		where f(3) = 2(3) + 5 = 11
+
+	the 1,2,3 are the arguments of the function f, and 7, 9, 11 are the  
+	corresponding values (the result) of f.  There is 1 argument, x. 
+
+
+	f(x,y) = 2x + 3y,
+		where f(1,2) = 2(1) + 3(2) = 8
+		where f(3,4) = 2(3) + 3(4) = 18
+
+	There are 2 arguments, x and y. 
+
+
+

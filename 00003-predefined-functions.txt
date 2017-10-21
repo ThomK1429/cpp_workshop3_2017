@@ -1,0 +1,34 @@
+
+
+- PREDEFINED FUNCTIONS - EXAMPLES
+
+		- prewritten functions such as: 
+			abs() - find the absolute value of a number
+			exp() - raise e to the power of
+			sqrt() - find the square root of
+			ceil() - round up
+			floor() - round down
+			pow() - raise a number to the power of
+			atan() - compute the arc tangent value
+			
+		- header file must be added to your code to utilize these functions
+		- http://www.cplusplus.com/reference/cmath/		- general
+		- http://www.cplusplus.com/reference/cmath/sqrt/ 	- specific - sqrt
+			#include <cmath>
+		    or	#include <math.h>
+
+		- c++ open source libraries: http://en.cppreference.com/w/cpp/links/libs
+		- c++ standard libraries: http://en.cppreference.com/w/cpp/header
+			- such as: strings(string, ...), numerics (cmath, ...),
+			  input/output libary (iostream, fstream, ...), regex  
+
+		- google c++ library - choices when typing:
+			
+
+		- Format:    #include <header file name> 
+
+			     functionName(parameters to be passed to the function if any)
+
+
+
+		-  SEE EXAMPLES: 00005-predefined-functions.cpp 

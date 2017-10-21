@@ -1,0 +1,16 @@
+C++ Workshop 3 - Oct.  Nov. 
+
+Welcome
+Introductions
+Learning Center Hours: Tues & Thur 11-2, Wed 11:30 to 2:30
+
+Aggressive pace due to the time constraints.  
+If further questions, come visit the learning center. 
+
+Comment your code, someone will thank you. 
+Code a little, test a little.
+
+Our topic for today is functions. 
+
+
+----------------------------------------------------------------------------------------
