@@ -1,0 +1,49 @@
+p351, 
+format of a function: 
+
+
+function prototype
+	- found before the main() function
+
+
+example: 
+
+
+	int main() {
+
+		program statements go here
+
+		return 0;
+
+	}
+.
+.
+.
+.
+.
+return dataType			formal parameter list
+      |					|
+      |			----------------------------------------------------			
+      |			|			          |
+
+dataType    functionName(dataType    identifier,    dataType    identifier, ...)  {
+	
+	program statements
+
+	return expr;
+}
+
+
+
+from p353, vocabulary of the function:
+
+	function heading
+		function return type
+		function name
+		formal parameter(s)
+		function body
+			compound (block of) statements - using the curly braces  {         }
+
+
+
+

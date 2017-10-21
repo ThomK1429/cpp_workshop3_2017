@@ -1,0 +1,14 @@
+p351
+
+
+2 Types of User Defined Functions: 
+
+VALUE RETURNING FUNCTIONS
+	- functions that have a return type
+	- return a value of specific type using the return statement
+	- like our  main() function
+
+
+VOID FUNCTIONS
+	- functions that DO NOT have a return type
+	- and DO NOT use a return statement
