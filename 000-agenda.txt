@@ -1,0 +1,48 @@
+
+·       - User-defined Functions
+·        -Formal parameters                                 	 - p378
+	o   Reference Parameters		- memory location address
+	o   Value Parameters 		- copy of actual parameter - no change to the original
+·        -Actual Parameters
+
+C++ Workshop 3 - Oct.  Nov. 
+
+Welcome
+Introductions
+Learning Center Hours: Tues & Thur 11-2, Wed 11:30 to 2:30
+
+Aggressive pace due to the time constraints.  
+If further questions, come visit the learning center. 
+
+
+Comment your code, someone will thank you. 
+Code a little, test a little.
+
+- Functions:  	https://www.programiz.com/cpp-programming/function
+	     	"In programming, function refers to a segment that groups 
+		code  to perform a specific task.
+
+		-p346 - functions also called modules.  They are like miniature pgms. 
+		put them together to build a pgm. 
+
+		-predefined functions, code is not available to view, user defined functions, 
+		you write the code. 
+
+		- PREDEFINED FUNCTIONS - p347, table 6-1
+
+		          HEADER FILE #include <cmath>
+			abs(x)
+			ceil(x)
+			cos(x)
+			exp(x)
+			fabs(x)
+			floor(x)
+			pow(x,y)
+			sqrt(x)
+
+		          HEADER FILE #include <cctype>
+			islower(x)
+			isupper(x)
+			tolower(x)
+			toupper(x)
+	

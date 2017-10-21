@@ -1,0 +1,16 @@
+
+function prototype
+.
+.
+.
+.
+.
+return dataType			formal parameter list
+   |						|			
+   |						|
+dataType functionName(dataType identifier, dataType identifier, ...) {
+	
+	statements
+
+	return expr;
+}
