@@ -49,7 +49,29 @@ int main() {
 
 /* Test Results 
 
+The abs(5)  = 5
+The abs(-5) = 5
 
+The abs(5.6)  = 5.6
+The abs(-5.6) = 5.6
+
+The exp(1.0)  = 2.71828
+The exp(3.0)  = 20.0855
+
+The sqrt(2) = 1.41421
+The sqrt(3) = 1.73205
+The sqrt(4) = 2
+
+The ceil(5.7) = 6
+The floor(7.7) = 7
+
+The pow(2,3) = 8
+
+pi = 3.14159
+pi = 3.14159
+
+
+Press any key to continue . . .
 
 
 */
