@@ -14,13 +14,18 @@ int main() {
 	cout << setfill(' ') << endl;
 
 	cout << "Input values: " << endl;
-	cout << setw(5) << num1 << setw(5) << num2 << setw(5) << num3 << endl;
-	cout << endl;
+	cout << setw(5) << num1; 
+	cout << setw(5) << num2; 
+	cout << setw(5) << num3; 
+	cout << endl << endl;
 
 	cout << "Values after use of myAbs() function: " << endl;
-	cout << setw(5) << myAbs(num1) << setw(5) << myAbs(num2) << setw(5) << myAbs(num3) << endl;
-	cout << endl;
+	cout << setw(5) << myAbs(num1;) 
+	cout << setw(5) << myAbs(num2); 
+	cout << setw(5) << myAbs(num3) ;
+	cout << endl << endl;
 
+	cout << endl;
 	system("pause");
 	return 0;
 

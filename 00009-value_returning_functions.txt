@@ -42,7 +42,7 @@ from p353, vocabulary of the function:
 		function name
 		formal parameter(s)
 		function body
-			compound (block of) statements - using the curly braces  {         }
+			compound (block of) statements - using the curly braces  {         }   p205
 
 
 
