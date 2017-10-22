@@ -45,5 +45,9 @@ from p353, vocabulary of the function:
 			compound (block of) statements - using the curly braces  {         }   p205
 
 
+		formal parameter list
+		actual parameter list
+
+
 
 
