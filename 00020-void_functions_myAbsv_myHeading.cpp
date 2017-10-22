@@ -49,3 +49,21 @@ void myAbs(int number) {
 	cout << number << endl;
 
 }
+
+	
+/* TEST RESULTS
+
+
+
+   myAbs Function Processing
+
+Before Values      After Values
+*************      ************
+			0                 0
+			5                 5
+		   -7                 7
+
+Press any key to continue . . .
+
+
+*/

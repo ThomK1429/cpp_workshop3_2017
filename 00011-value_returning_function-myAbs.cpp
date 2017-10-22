@@ -14,15 +14,15 @@ int main() {
 	cout << setfill(' ') << endl;
 
 	cout << "Input values: " << endl;
-	cout << setw(5) << num1; 
-	cout << setw(5) << num2; 
-	cout << setw(5) << num3; 
+	cout << setw(5) << num1;
+	cout << setw(5) << num2;
+	cout << setw(5) << num3;
 	cout << endl << endl;
 
 	cout << "Values after use of myAbs() function: " << endl;
-	cout << setw(5) << myAbs(num1;) 
-	cout << setw(5) << myAbs(num2); 
-	cout << setw(5) << myAbs(num3) ;
+	cout << setw(5) << myAbs(num1);
+	cout << setw(5) << myAbs(num2);
+	cout << setw(5) << myAbs(num3);
 	cout << endl << endl;
 
 	cout << endl;
@@ -38,3 +38,19 @@ int myAbs(int number) {
 
 	return number;
 }
+
+
+
+
+/* Test Results
+
+Input values:
+0    5   -7
+
+Values after use of myAbs() function:
+0    5    7
+
+
+Press any key to continue . . .
+
+*/

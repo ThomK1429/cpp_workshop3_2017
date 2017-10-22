@@ -33,4 +33,14 @@ int main() {
 
 }
 
+/* TEST RESULTS
 
+Input values :
+0    5 - 7
+
+Values after use of myAbs() function :
+0    5    7
+
+Press any key to continue . . .
+
+*/

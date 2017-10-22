@@ -1,0 +1,11 @@
+
+
+function argument passing
+
+	2 types:
+	
+		- pass by value
+
+
+
+		- pass by reference
