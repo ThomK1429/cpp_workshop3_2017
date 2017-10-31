@@ -8,7 +8,7 @@ int main() {
 
 	int num1 = 7;
 
-	int *numPtr = nullptr;	// an integer pointer
+	int *numPtr = nullptr;			// an integer pointer
 	// int* numPtr;			// same as above, different format
 		
 	
